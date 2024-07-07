@@ -1,3 +1,25 @@
 .w-100{
     width: 100%;
 }
+
+.img-size{
+    display: inline-block;
+    margin: 20px 0 2px;
+    border-radius: 0.8rem;
+    height: 200px;
+    width: 200px;
+}
+
+.flex-display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0;
+    
+}
+.btn-size{
+    width: 300px;
+    margin: 5px 0;
+    border-radius: 1rem;
+}
